@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\Kakashi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LapTrinhWin\\baiTapMerge\\Demo\\Demo\\Demo.csproj",
+      "projectUniqueName": "C:\\Users\\Kakashi\\Downloads\\3tren6\\Windows\\baiTapMerge\\Demo\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "D:\\LapTrinhWin\\baiTapMerge\\Demo\\Demo\\Demo.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\LapTrinhWin\\baiTapMerge\\Demo\\Demo\\obj\\",
+      "projectPath": "C:\\Users\\Kakashi\\Downloads\\3tren6\\Windows\\baiTapMerge\\Demo\\Demo\\Demo.csproj",
+      "packagesPath": "C:\\Users\\Kakashi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kakashi\\Downloads\\3tren6\\Windows\\baiTapMerge\\Demo\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kakashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
