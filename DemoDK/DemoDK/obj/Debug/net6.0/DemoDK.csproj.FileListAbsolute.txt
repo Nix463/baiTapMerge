@@ -1,0 +1,14 @@
+D:\new1\DemoDK\DemoDK\bin\Debug\net6.0\DemoDK.exe
+D:\new1\DemoDK\DemoDK\bin\Debug\net6.0\DemoDK.deps.json
+D:\new1\DemoDK\DemoDK\bin\Debug\net6.0\DemoDK.runtimeconfig.json
+D:\new1\DemoDK\DemoDK\bin\Debug\net6.0\DemoDK.dll
+D:\new1\DemoDK\DemoDK\bin\Debug\net6.0\DemoDK.pdb
+D:\new1\DemoDK\DemoDK\obj\Debug\net6.0\DemoDK.GeneratedMSBuildEditorConfig.editorconfig
+D:\new1\DemoDK\DemoDK\obj\Debug\net6.0\DemoDK.AssemblyInfoInputs.cache
+D:\new1\DemoDK\DemoDK\obj\Debug\net6.0\DemoDK.AssemblyInfo.cs
+D:\new1\DemoDK\DemoDK\obj\Debug\net6.0\DemoDK.csproj.CoreCompileInputs.cache
+D:\new1\DemoDK\DemoDK\obj\Debug\net6.0\DemoDK.dll
+D:\new1\DemoDK\DemoDK\obj\Debug\net6.0\refint\DemoDK.dll
+D:\new1\DemoDK\DemoDK\obj\Debug\net6.0\DemoDK.pdb
+D:\new1\DemoDK\DemoDK\obj\Debug\net6.0\DemoDK.genruntimeconfig.cache
+D:\new1\DemoDK\DemoDK\obj\Debug\net6.0\ref\DemoDK.dll
