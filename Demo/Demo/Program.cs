@@ -6,8 +6,8 @@
         {
             int x = 1;
             int y = 2;
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine(x + y);
+            int z = 3;
+            Console.WriteLine(x + y + z);
         }
     }
 }
