@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LapTrinhWin\\baiTapMerge\\Demo\\Demo\\Demo.csproj": {}
+    "C:\\LapTrinhWindown\\test1\\baiTapMerge\\Demo\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "D:\\LapTrinhWin\\baiTapMerge\\Demo\\Demo\\Demo.csproj": {
+    "C:\\LapTrinhWindown\\test1\\baiTapMerge\\Demo\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LapTrinhWin\\baiTapMerge\\Demo\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\LapTrinhWindown\\test1\\baiTapMerge\\Demo\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "D:\\LapTrinhWin\\baiTapMerge\\Demo\\Demo\\Demo.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\LapTrinhWin\\baiTapMerge\\Demo\\Demo\\obj\\",
+        "projectPath": "C:\\LapTrinhWindown\\test1\\baiTapMerge\\Demo\\Demo\\Demo.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\LapTrinhWindown\\test1\\baiTapMerge\\Demo\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
