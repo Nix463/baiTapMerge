@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            int x = 1;
-            int y = 2;
+            int c = 6;
+            int x = c + 5;
+            int y = 2 + x;
             Console.WriteLine("Hello, World!");
             Console.WriteLine(x + y);
         }
