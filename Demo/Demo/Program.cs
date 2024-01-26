@@ -7,7 +7,7 @@
             int c = 6;
             int x = c + 5;
             int y = 2 + x;
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Xin chao the gioi!");
             Console.WriteLine(x + y);
         }
     }
